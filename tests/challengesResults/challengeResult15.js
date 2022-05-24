@@ -1,0 +1,32 @@
+const challengeResult15 = [
+  { submitted_hour: 0 },
+  { submitted_hour: 0 },
+  { submitted_hour: 0 },
+  { submitted_hour: 0 },
+  { submitted_hour: 0 },
+  { submitted_hour: 0 },
+  { submitted_hour: 0 },
+  { submitted_hour: 0 },
+  { submitted_hour: 0 },
+  { submitted_hour: 0 },
+  { submitted_hour: 0 },
+  { submitted_hour: 0 },
+  { submitted_hour: 0 },
+  { submitted_hour: 0 },
+  { submitted_hour: 0 },
+  { submitted_hour: 0 },
+  { submitted_hour: 0 },
+  { submitted_hour: 0 },
+  { submitted_hour: 0 },
+  { submitted_hour: 0 },
+  { submitted_hour: 0 },
+  { submitted_hour: 0 },
+  { submitted_hour: 0 },
+  { submitted_hour: 0 },
+  { submitted_hour: 0 },
+  { submitted_hour: 18 },
+  { submitted_hour: 18 },
+  { submitted_hour: 18 }
+];
+
+module.exports = challengeResult15;
