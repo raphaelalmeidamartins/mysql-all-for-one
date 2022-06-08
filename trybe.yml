@@ -1,9 +1,0 @@
-ignore_files:
-  - tests/
-  - .editorconfig
-  - .eslintignore
-  - .eslintrc.json
-  - .gitignore
-  - jest.config.js
-  - README.md
-  - northwind.sql
